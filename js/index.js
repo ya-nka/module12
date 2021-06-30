@@ -176,7 +176,6 @@ const sortAPI = {
         }
       }
     }
-    bubbleSort(fruits, comparation);
   },
 
   quickSort(arr, comparation) {
